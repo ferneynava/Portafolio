@@ -164,7 +164,7 @@ h6 {
 .core-nav .menu li a:focus,
 .core-nav .menu li a:active {
 	text-decoration: line-through;
-	color: #8aecec;
+	color: #ff0000;
 }
 
 nav.scrolled .menu li a {
