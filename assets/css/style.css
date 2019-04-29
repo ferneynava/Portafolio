@@ -221,7 +221,7 @@ nav.scrolled .menu li a:active {
 .slider-area .slide-bg-1 {
 	background-image: url("../img/Foto.jpg");
 	background-size: cover;
-	background-position: left top;
+	background-position: center;
 	background-repeat: no-repeat;
 }
 
