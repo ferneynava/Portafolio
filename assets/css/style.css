@@ -114,16 +114,7 @@ h6 {
 	transform: translateY(-3px);
 }
 
-.btn-white {
-	background: #0101df;
-	font-size: 12px;
-	padding: 15px 25px;
-	color: #000;
-	border: 1px solid #fff;
-	border-radius: 100px;
-	-webkit-transition: all .2s ease-in-out;
-	transition: all .2s ease-in-out;
-}
+
 
 .btn-white:hover,
 .btn-white:focus,
