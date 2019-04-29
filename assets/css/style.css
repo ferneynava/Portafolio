@@ -106,7 +106,7 @@ h6 {
 .btn-transparent:focus,
 .btn-transparent:active {
 	background: #d8d8d8;
-	color: #fff;
+	color: #000;
 	border: 1px solid #fff;
 	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
