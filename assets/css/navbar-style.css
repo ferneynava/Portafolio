@@ -41,12 +41,12 @@ nav .menu li a {
 
 nav .menu li.active > a,
 nav .menu li a:hover {
-    color: #FF0000;
+    color: #ff0000;
 }
 
 nav.scrolled  .menu li.active > a,
 nav.scrolled  .menu li a:hover {
-	color: #FF0000;
+	color: #ff0000;
 }
 
 nav button {
