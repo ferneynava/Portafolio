@@ -57,7 +57,7 @@ nav button {
 
 nav.scrolled{
     background: #fff;
-    border-bottom: solid 1px #000000;
+    border-bottom: solid 1px #dfdfdf;
 }
 
 nav.scrolled .menu li a{
