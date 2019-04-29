@@ -115,7 +115,7 @@ h6 {
 }
 
 .btn-primary {
-	background: #ad67ea;
+	background: #a4a4a4;
 	font-size: 12px;
 	padding: 15px 25px;
 	color: #fff;
@@ -263,7 +263,7 @@ nav.scrolled .menu li a:active {
 
 .slider-area .owl-dots div.owl-dot {
 	background-color: transparent;
-	border: 2px solid #ad67ea;
+	border: 2px solid #a4a4a4;
 	border-radius: 100px;
 	bottom: -25px;
 	display: inline-block;
@@ -352,7 +352,7 @@ nav.scrolled .menu li a:active {
 
 #about .about-content .progress .progress-bar {
 	position: relative;
-	background: #ad67ea;
+	background: #a4a4a4;
 	border-radius: 100px;
 }
 
@@ -386,7 +386,7 @@ nav.scrolled .menu li a:active {
 	height: 4px;
 	margin: 20px 0;
 	display: block;
-	background-color: #ad67ea;
+	background-color: #a4a4a4;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 	border-radius: 100px;
@@ -603,7 +603,7 @@ nav.scrolled .menu li a:active {
 	width: 300px;
 	height: 4px;
 	display: block;
-	background-color: #ad67ea;
+	background-color: #a4a4a4;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 	border-radius: 100px;
@@ -678,7 +678,7 @@ nav.scrolled .menu li a:active {
 	width: 300px;
 	height: 4px;
 	display: block;
-	background-color: #ad67ea;
+	background-color: #a4a4a4;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 	border-radius: 100px;
@@ -754,14 +754,14 @@ nav.scrolled .menu li a:active {
 	width: 300px;
 	height: 4px;
 	display: block;
-	background-color: #ad67ea;
+	background-color: #a4a4a4;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 	border-radius: 100px;
 }
 
 #testimonials .owl-testimonials .item {
-	background: #ad67ea;
+	background: #a4a4a4;
 	color: #fff;
 	-webkit-box-shadow: 0px 15px 40px -5px rgba(0, 0, 0, 0.1);
 	box-shadow: 0px 15px 40px -5px rgba(0, 0, 0, 0.1);
@@ -804,7 +804,7 @@ nav.scrolled .menu li a:active {
 
 #testimonials .owl-testimonials .owl-dots div.owl-dot {
 	background-color: transparent;
-	border: 2px solid #ad67ea;
+	border: 2px solid #a4a4a4;
 	border-radius: 100px;
 	bottom: -25px;
 	display: inline-block;
@@ -842,7 +842,7 @@ nav.scrolled .menu li a:active {
 	width: 250px;
 	height: 4px;
 	display: block;
-	background-color: #ad67ea;
+	background-color: #a4a4a4;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 	border-radius: 100px;
@@ -872,7 +872,7 @@ nav.scrolled .menu li a:active {
 
 #team .social-media li {
 	display: inline-block;
-	background: #ad67ea;
+	background: #a4a4a4;
 	border: 1px solid #fff;
 	-webkit-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
@@ -944,7 +944,7 @@ nav.scrolled .menu li a:active {
 	width: 250px;
 	height: 4px;
 	display: block;
-	background-color: #ad67ea;
+	background-color: #a4a4a4;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 	border-radius: 100px;
@@ -955,7 +955,7 @@ nav.scrolled .menu li a:active {
 }
 
 #contact .email-link {
-	color: #ad67ea;
+	color: #a4a4a4;
 	display: block;
 	margin-bottom: 15px;
 	-webkit-transition: all .2s ease-in-out;
@@ -1024,7 +1024,7 @@ footer p {
 }
 
 footer a {
-	color: #ad67ea;
+	color: #a4a4a4;
 	-webkit-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
 }
