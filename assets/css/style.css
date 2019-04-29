@@ -277,7 +277,7 @@ nav.scrolled .menu li a:active {
 }
 
 .slider-area .owl-dots div.owl-dot.active {
-	background-color: #8aecec;
+	background-color: #FF0000;
 }
 
 .slider-area:after {
