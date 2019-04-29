@@ -219,7 +219,7 @@ nav.scrolled .menu li a:active {
 }
 
 .slider-area .slide-bg-1 {
-	background-image: url("assets/img/1622676_10205018627088288_5738631976330886033_n.jpg");
+	background-image: url("assets/img/Foto.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -555,7 +555,7 @@ nav.scrolled .menu li a:active {
 			CALL TO ACTION:
 ========================================================*/
 #call-to-action {
-	background: url("assets/img/1622676_10205018627088288_5738631976330886033_n.jpg");
+	background: url("assets/img/Foto.jpg");
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
