@@ -314,7 +314,7 @@ nav.scrolled .menu li a:active {
 	width: 230px;
 	height: 4px;
 	display: block;
-	background-color: #ad67ea;
+	background-color: #a4a4a4;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 	border-radius: 100px;
