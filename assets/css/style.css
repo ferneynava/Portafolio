@@ -174,7 +174,7 @@ nav.scrolled .menu li a {
 }
 
 nav.scrolled .menu li.active > a {
-	color: #8aecec;
+	color: #ff0000;
 	text-decoration: line-through;
 }
 
@@ -183,7 +183,7 @@ nav.scrolled .menu li a:hover,
 nav.scrolled .menu li a:focus,
 nav.scrolled .menu li a:active {
 	text-decoration: line-through;
-	color: #8aecec;
+	color: #ff0000;
 }
 
 /*=======================================================
