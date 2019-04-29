@@ -155,7 +155,7 @@ h6 {
 }
 
 .core-nav .menu li.active > a {
-	color: #ff0000;
+	color: #bababa;
 	text-decoration: line-through;
 }
 
@@ -164,7 +164,7 @@ h6 {
 .core-nav .menu li a:focus,
 .core-nav .menu li a:active {
 	text-decoration: line-through;
-	color: #ff0000;
+	color: #bababa;
 }
 
 nav.scrolled .menu li a {
@@ -174,7 +174,7 @@ nav.scrolled .menu li a {
 }
 
 nav.scrolled .menu li.active > a {
-	color: #ff0000;
+	color: #bababa;
 	text-decoration: line-through;
 }
 
@@ -183,7 +183,7 @@ nav.scrolled .menu li a:hover,
 nav.scrolled .menu li a:focus,
 nav.scrolled .menu li a:active {
 	text-decoration: line-through;
-	color: #ff0000;
+	color: #bababa;
 }
 
 /*=======================================================
