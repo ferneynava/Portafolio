@@ -305,20 +305,6 @@ nav.scrolled .menu li a:active {
 	margin-bottom: 80px;
 }
 
-#about h2:after {
-	top: -23px;
-	content: "";
-	position: relative;
-	left: 50%;
-	bottom: 0;
-	width: 230px;
-	height: 4px;
-	display: block;
-	background-color: #a4a4a4;
-	-webkit-transform: translateX(-50%);
-	transform: translateX(-50%);
-	border-radius: 100px;
-}
 
 #about .about-img {
 	position: relative;
