@@ -444,7 +444,7 @@ nav.scrolled .menu li a:active {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: rgba(173, 103, 234, 0.7);
+	background: rgba(150, 150, 250, 0.7);
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
