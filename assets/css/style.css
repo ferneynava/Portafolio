@@ -312,8 +312,8 @@ nav.scrolled .menu li a:active {
 
 #about .about-img img {
 	margin: 0 auto;
-	-webkit-box-shadow: -20px -19px 0px -4px #000;
-	box-shadow: -20px -19px 0px -4px #ad67ea;
+	-webkit-box-shadow: -20px -19px 0px -4px #000000;
+	box-shadow: -20px -19px 0px -4px #000000;
 }
 
 #about .about-content {
