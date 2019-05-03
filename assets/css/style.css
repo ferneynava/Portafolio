@@ -345,7 +345,7 @@ nav.scrolled .menu li a:active {
 #about .about-content .progress .progress-bar span {
 	position: absolute;
 	display: block;
-	top: -35px;
+	top: -80px;
 	right: 0;
 	font-size: 12px;
 	font-weight: 700;
