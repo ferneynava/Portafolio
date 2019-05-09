@@ -220,7 +220,7 @@ nav.scrolled .menu li a:active {
 
 .slider-area .slide-bg-1 {
 	background-image: url("../img/59821620_10218264326862504_7969564159941541888_oed.jpg");
-	background-size: auto;
+	background-size: contain;
 	background-position: center top;
 	background-repeat: no-repeat;
 }
